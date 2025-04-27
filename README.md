@@ -13,8 +13,8 @@ The task was to build a robot, with no specific theme restrictions — we chose 
 ## 👥 Contributors
 - **Leonardo Vieira** — Documentation and Code Logic Development.
 - **Eduardo Bortolato** — Hardware Integration and Code Logic Development.
-- **Douglas Robaldo** — Project Planning and Partial Hardware Integration/Support.
-- **Arthur Abiviolo** — Project Planning and Partial Hardware Integration/Support.
+- **Douglas Robaldo** — Project Planning and Hardware Integration/Support.
+- **Arthur Abiviolo** — Project Planning and Hardware Integration/Support.
 
 ## 🔧 Tools & Technologies
 - [Arduino IDE](https://www.arduino.cc/software) — for programming and uploading to the Arduino board.
