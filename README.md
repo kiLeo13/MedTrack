@@ -1,4 +1,7 @@
 # MedTrack
+![Arduino](https://img.shields.io/badge/Platform-Arduino-green?style=flat-square&logo=arduino)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
 
 ## 🤔 What is MedTrack?
 MedTrack is a simple Arduino-based robot (Arduino Uno) written in C++ that periodically reminds users to take their medication on time.
