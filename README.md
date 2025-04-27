@@ -10,6 +10,13 @@ MedTrack is a simple Arduino-based robot (Arduino Uno) written in C++ that perio
 This project was initially created as an assignment for our Computer Science course, under the guidance of Professor Renato Rocha.  
 The task was to build a robot, with no specific theme restrictions — we chose to create a "Medicine Tracker" to make a real difference in users' lives by helping them manage their medication schedules more effectively.
 
+## 👥 Contributors
+
+- **Leonardo Vieira** — Documentation and Code Logic Development.
+- **Eduardo Bortolato** — Hardware Integration and Code Logic Development.
+- **Douglas Robaldo** — Project Planning and Partial Hardware Integration/Support.
+- **Arthur Abiviolo** — Project Planning and Partial Hardware Integration/Support.
+
 ## 🔧 Tools & Technologies
 - [Arduino IDE](https://www.arduino.cc/software) — for programming and uploading to the Arduino board.
 - [Visual Studio Code](https://code.visualstudio.com) — for enhanced code editing and project organization.
