@@ -1,2 +1,11 @@
 # Editor files
 .vscode/
+
+# Package files
+*.zip
+*.bin
+*.elf
+*.hex
+*.tmp
+*.bak
+*.d
