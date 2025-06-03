@@ -11,12 +11,12 @@ This project was initially created as an assignment for our Computer Science cou
 The task was to build a robot, with no specific theme restrictions — we chose to create a "Medicine Tracker" to make a real difference in users' lives by helping them manage their medication schedules more effectively.
 
 ## 👥 Contributors
-- **Leonardo Vieira** — Documentation and Code Logic Development.
-- **Eduardo Bortolato** — Hardware Integration and Code Logic Development.
-- **Douglas Robaldo** — Project Planning and Hardware Integration.
 - **Arthur Abiviolo** — Project Planning and Hardware Integration.
-- **Gabriel Reis** — Summary Documentation and Presentation Support.  
-- **Daniel Junior** — Summary Documentation and Presentation Support.  
+- **Daniel Junior** — Summary Documentation and Presentation Support.
+- **Douglas Robaldo** — Project Planning and Hardware Integration.
+- **Eduardo Bortolato** — Hardware Integration and Code Logic Development.
+- **Gabriel Reis** — Summary Documentation and Presentation Support.
+- **Leonardo Vieira** — Documentation and Code Logic Development.
 
 ## 🔧 Tools & Technologies
 - [Arduino IDE](https://www.arduino.cc/software) — for programming and uploading to the Arduino board.
