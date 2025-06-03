@@ -22,9 +22,4 @@ The task was to build a robot, with no specific theme restrictions — we chose 
 - [Arduino IDE](https://www.arduino.cc/software) — for programming and uploading to the Arduino board.
 - Assistance from [ChatGPT](https://chatgpt.com) and [DeepSeek](https://www.deepseek.com) — for research and development support.
 
-## 📦 Libraries Used
-- *This will be listed soon*
-
-> Libraries can be installed directly via the Arduino Library Manager.
-
 ---
