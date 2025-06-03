@@ -15,7 +15,7 @@ The task was to build a robot, with no specific theme restrictions — we chose 
 - **Daniel Junior** — Summary Documentation and Presentation Support.
 - **Douglas Robaldo** — Project Planning and Hardware Integration.
 - **Eduardo Bortolato** — Hardware Integration and Code Logic Development.
-- **Gabriel Reis** — Summary Documentation and Presentation Support.
+- [**Gabriel José**](https://github.com/grabiie) — Summary Documentation and Presentation Support.
 - **Leonardo Vieira** — Documentation and Code Logic Development.
 
 ## 🔧 Tools & Technologies
